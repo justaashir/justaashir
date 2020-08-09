@@ -4,6 +4,8 @@ I am a Front-end web developer from Pakistan working with a Startup as VueJS UI 
 
 I'm mostly active, on [twitter](https://twitter.com/justaashir) where I share everything about my life, daily routine, projects and memes 😋. I also write lots of amazing posts at [DEV.to](https://dev.to/justaashir).
 
+#### [My Resume](https://drive.google.com/file/d/1-XefxXFUgdQael2b9xFEhmZWHMuBppTb/view?usp=sharing)
+
 ## ✨ My Expertise
 - VueJS
 - UI Design
